@@ -1,2 +1,2 @@
 # voice_recognition
-Voice recognition
+Simple voice recognition program
